@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Conan"
+        android:text="Detective Conan"
         android:id="@+id/textView"
         android:gravity="center_horizontal"
         android:layout_alignParentEnd="true"
@@ -31,11 +31,12 @@
         android:gravity="center"
         android:textSize="25dp"
         android:textStyle="bold"
-        android:background="#cb91cef7" />
+        android:background="#cb91cef7"
+        android:textColor="#064869" />
 
     <ListView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:id="@+id/listView"
         android:layout_below="@+id/textView"
         android:layout_above="@+id/button"
