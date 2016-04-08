@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detail_short">
+        <item>ตัวละครหลัก</item>
+        <item>ขบวนการนักสืบเยาวชน</item>
+        <item>ตัวละครหลัก</item>
+        <item>ตัวละครหลัก</item>
+        <item>นักสืบตะวันตก</item>
+        <item>คนรู้จัก</item>
+        <item>นักสืบเยาวชน</item>
+        <item>นักสืบเยาวชน</item>
+        <item>นักสืบเยาวชน</item>
+        <item>นักสืบเยาวชน</item>
+        <item>คนรู้จัก</item>
+        <item>จอมโจรคิด</item>
+        <item>คนรู้จัก</item>
+        <item>ตำรวจนครบาล</item>
+        <item>ตำรวจนครบาล</item>
+        <item>FBI</item>
+        <item>พ่อ ชินอิจิ</item>
+        <item>แม่ ชินอิจิ</item>
+        <item>องค์กรชุดดำ</item>
+        <item>คนรู้จัก</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
